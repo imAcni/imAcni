@@ -4,5 +4,7 @@ i'm tyler
 [school club](https://cybreb.org)
 
 teams i play for: 
+
 [Kitty Wizard Money Gang](https://ctftime.org/team/373176)
+
 [0xfun](https://ctftime.org/team/354033)
