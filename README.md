@@ -1,16 +1,15 @@
-## Hi there 👋
+hi, i'm acni!
 
-<!--
-**imAcni/imAcni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I play for a couple CTF teams, like
 
-Here are some ideas to get you started:
+[0xfun](https://0xfun.org/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[0xf1sh](https://0xf1.sh/)
+
+[Kitty Wizards](https://ctftime.org/team/373176)
+
+I main binary exploitation and OSINT! check out my website at:
+
+[website](https://acn1.xyz)
+
+(acn1.xyz)
