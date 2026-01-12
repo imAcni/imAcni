@@ -8,7 +8,7 @@ I play for a couple CTF teams, like
 
 [Kitty Wizards](https://ctftime.org/team/373176)
 
-I main binary exploitation and OSINT! check out my website at:
+I main binary exploitation and OSINT. check out my website at:
 
 [website](https://acn1.xyz)
 
