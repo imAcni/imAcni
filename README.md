@@ -8,8 +8,8 @@ ctfs & bb // pwn & low-level expl
 
 [Lil L3ak](https://l3ak.team/)
 
-[tjcsc](https://ctftime.org/team/53812/) - former
+[tjcsc](https://ctftime.org/team/53812/)
 
-[0xfun](https://0xfun.org/) - former
+[0xfun](https://0xfun.org/)
 
-[shellphish](https://shellphish.net/) - former
+[shellphish](https://shellphish.net/)
